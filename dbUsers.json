@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "id": "48994706-6a9d-49aa-9caa-5681ecb5b656",
+      "name": {
+        "first": "Leanne",
+        "last": "Graham"
+      },
+      "email": "Sincere@april.biz",
+      "login": {
+        "username": "Bret"
+      }
+    },
+    {
+      "id": "f65239d3-01ed-495a-96a4-68e8500335b6",
+      "name": {
+        "first": "Ervin",
+        "last": "Howell"
+      },
+      "email": "Shanna@melissa.tv",
+      "login": {
+        "username": "Antonette"
+      }
+    },
+    {
+      "id": "5ac033bd-acf6-4d2a-99cb-4afa6f112886",
+      "name": {
+        "first": "Clementine",
+        "last": "Bauch"
+      },
+      "email": "Nathan@yesenia.net",
+      "login": {
+        "username": "Samantha"
+      }
+    },
+    {
+      "id": "3dad99ad-a184-4d26-b456-867723d04a79",
+      "name": {
+        "first": "Patricia",
+        "last": "Lebsack"
+      },
+      "email": "Julianne.OConner@kory.org",
+      "login": {
+        "username": "Karianne"
+      }
+    },
+    {
+      "id": "9699dc29-e818-4c35-acfc-f8db2d604858",
+      "name": {
+        "first": "Chelsey",
+        "last": "Dietrich"
+      },
+      "email": "Lucio_Hettinger@annie.ca",
+      "login": {
+        "username": "Kamren"
+      }
+    },
+    {
+      "id": "747311b9-8b5d-4c01-a7ff-f8d8dfe148a4",
+      "name": {
+        "first": "Mrs Schulist",
+        "last": " Dennis"
+      },
+      "email": "Karley_Dach@jasper.info",
+      "login": {
+        "username": "Leopoldo_Corkery"
+      }
+    },
+    {
+      "id": "d63a432f-0c22-48e7-927c-a1534c62cf31",
+      "name": {
+        "first": "Kurtis",
+        "last": "Weissnat"
+      },
+      "email": "Telly.Hoeger@billy.biz",
+      "login": {
+        "username": "Elwyn.Skiles"
+      }
+    },
+    {
+      "id": "14177e04-8634-4456-9134-626dc3fbff2d",
+      "name": {
+        "first": "Nicholas",
+        "last": "Runolfsdottir"
+      },
+      "email": "Sherwood@rosamond.me",
+      "login": {
+        "username": "Maxime_Nienow"
+      }
+    }
+  ]
+}

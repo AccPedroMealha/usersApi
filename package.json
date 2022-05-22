@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "User List API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroMealha/userAPI.git"
+  },
+  "keywords": [
+    "user",
+    "api"
+  ],
+  "author": "Pedro Mealha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroMealha/userAPI/issues"
+  },
+  "homepage": "https://github.com/PedroMealha/userAPI#readme"
+}
